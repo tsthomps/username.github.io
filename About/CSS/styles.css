@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(152, 137, 234);
+}
+
+img {
+    width: 40%;
+ }
+ 
+ 
+ main {
+    width:60%;
+    margin: auto;
+    text-align: center;
+ }
+ 
+ 
+ header {
+    text-align: center;
+ }
+ 
+ 
+ section {
+    background-color: rgb(159, 100, 237)
+ }
+ 
+ 
+ p {
+    width:46%;
+    padding: 0px 2%;
+    float: left;
+    text-align: left;
+ }
+ 
+ 
+ nav {
+    margin-bottom: 50px;
+ }
+ nav a {
+    padding: 0px 50px;
+    background-color:rgb(104, 81, 129)
+ 
+ 
+ }
+ 
+ 
+ nav a:hover {
+    background-color:rgb(192, 162, 219)
+ }
+ 
