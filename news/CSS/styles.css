@@ -1,0 +1,20 @@
+button {
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    width: 170px;
+    font-size: 2em;
+}
+.col-1, .col-3{
+    float: left;
+    width: 30%;
+}
+.col-2{
+    width: 40%;
+    float: left;
+}
+.group img{
+    height: 40%;
+    width: 40%;
+}
