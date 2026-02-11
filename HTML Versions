@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+ 
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <title>HTML Project</title>
+ </head>
+  
+ <body>
+  
+  <H1>HTML 1.0</H1>
+  
+  <p>
+    The first version of HTML, HTML 1.0, was invented by Tim Berners-Lee in 1991 andreleased in 1993</p>
+  <p> HTML 1.0 was a basic markup language that introduced a set of tags for structuring digital documents. The original version included 18 tags, element   tags for paragraphs and forheadings.
+  </p>
+  
+  <H1>HTML 2.0</H1>
+  <p>HMTL 2.0, was published as RFC in 1995. Made for head tags, title, and body tags. It's elements are ul, ol, and li. </p>
+
+  <h1>HTML 3.2</h1>
+  <p>Was a markup system for creating porable hypertext documents with new features of 2.0. Was released in March 1995</p>
+
+  <h1>HTML 4.01</h1>
+  <p>Was introduced into CSS separation and better structure, and it had different versions of tags. (very strict, transitional, amd framesetting.</p>
+
+  <h1>Why did the W3C suggest a new implementation of a new standard?</h1>
+  <p>They wanted to ensure the web and other technologies to evolve in a way thats compatible innovative and accessible to the viewers or audience.</p>
